@@ -1,7 +1,7 @@
-##Overview
+## Overview
 * CLI playing card hand comparison and sorting app.
 
-##Features
+## Features
 * Creating a card with a value and suit (enum).
 * Creating a hand and a hand to compare to.
 * Printing created hand. 
